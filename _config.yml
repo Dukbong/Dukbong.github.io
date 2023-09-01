@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jang Hyeon Sung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Have **FUN** coding every day."
+  location         : "Korea"
+  email            : "gorae930301@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
