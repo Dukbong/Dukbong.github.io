@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 published: true
-locale                   : "en-US"
-title                    : "Jang Dev Note"
+locale                   : "ko-KR"
+title                    : "Duckbong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jang Hyeon Sung"
+name                     : "Duckbong"
 description              : "Dev Note"
 url                      : "https://dukbong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jang Hyeon Sung"
+  name             : "Dukbong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "재미있게 개발하기⭐"
   location         : "Korea"
